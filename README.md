@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sgng-hub
 - 👀 I’m interested in learning more technical skills
 - 🌱 I’m currently learning SQL
-- 💞️ I like to automate and streamline tasks and to learn more life skills
+- 💞️ I like to automate and streamline tasks and learn more life skills
 - 📫 How to reach me: nstepfan0@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play chess and do olympic weightlifting.
