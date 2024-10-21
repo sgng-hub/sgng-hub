@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play chess and do olympic weightlifting.
 
+# Check out my links below
 # https://stepfanexcelmath.blogspot.com/
 # https://github.com/sgng-hub
 # https://sites.google.com/uci.edu/teach/home
