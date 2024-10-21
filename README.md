@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgng-hub
-- 👀 I’m interested in learning more technical skills
+- 👀 I’m interested in learning more technical skills for professional growth
 - 🌱 I’m currently learning SQL
 - 💞️ I like to automate and streamline tasks and learn more life skills
 - 📫 How to reach me: nstepfan0@gmail.com
